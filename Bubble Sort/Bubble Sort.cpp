@@ -46,4 +46,3 @@ int main()
     std::cout << "After:\t";
     print_int_array(unsorted_data, unsorted_data_length);
 }
-;
